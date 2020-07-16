@@ -18,7 +18,7 @@ This is when I normally pull the `.full-bleed` utility class out of my back pock
 
 ## The `.full-bleed` utility
 
-![](/images/twitter-ad-heldere-instructies-1.png)
+[![](/images/twitter-ad-heldere-instructies-1.png)](https://mindermaarbeter.nl)
 
 It’s small, but hella mighty:
 
